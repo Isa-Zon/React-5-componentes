@@ -1,0 +1,21 @@
+.category-header {
+    list-style-type: none;
+}
+
+.category-header li {
+    display: inline-block;
+    width: 100px;
+    height: 25px;
+    border: 1px solid #000;
+    text-align: center; 
+    font-size: 10px;
+}
+
+.category-item li {
+    display: inline-block;
+    width: 100px;
+    height: 25px;
+    border: 1px solid #000;
+    text-align: center; 
+    font-size: 10px;
+}
